@@ -35,6 +35,7 @@ In coordination with the international Open Data Day. The hackathon will be expl
 * Sports Data [Link](https://www.mysportsfeeds.com/) Provided courtesy of [Brad Barkhouse](https://twitter.com/mysportsfeeds) of Binary Star
 * [PEI Levee Data](https://github.com/reinvented/levees) maintained by Peter Rukavina ([@ruk](https://twitter.com/ruk))
 * Note that some ODBC members want to participate (in general) but are not coders. A nice-to-have for this specific event is to find a way to include them.
+** Introduction to Data Analytics or Data Visualization is a great way to reach out to "traditional" data and business analysts who may not see themselves as having skills relevant to the mandates of the ODBC.
 
 ###Checklist
 - [x] Venue
